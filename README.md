@@ -20,7 +20,6 @@ The goal is to create a comprehensive travel guide website that provides users w
 
 + **HTML**
 + **CSS**
-+ **Javascript**
 
 # How to access
 Visit the live site: [Demo](https://Nishuu3164.github.io/SCT_WD_1)
