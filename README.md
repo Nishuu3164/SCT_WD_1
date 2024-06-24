@@ -23,4 +23,8 @@ The goal is to create a comprehensive travel guide website that provides users w
 + **Javascript**
 
 # How to access
-Visit the live site: https://Nishuu3164.github.io/SCT_WD_1
+Visit the live site: [Demo](https://Nishuu3164.github.io/SCT_WD_1)
+
+# clone
+```sh
+git clone https://github.com/Nishuu3164/SCT_WD_1.git
