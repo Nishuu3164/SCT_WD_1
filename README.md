@@ -2,7 +2,7 @@
 
 # Overview
 This project is an internship task for SkillCraft Technology for web development interns. 
-The goal is to create a comprehensive travel guide website that provides users with detailed information, insider tips, and inspirational stories about various travel destinations.
+The goal is to create a comprehensive landing page for a travel guide website that provides users with detailed information, insider tips, and inspirational stories about various travel destinations.
 
 # Features
 + **Travel Guides**: Comprehensive guides for various destinations.
@@ -22,7 +22,7 @@ The goal is to create a comprehensive travel guide website that provides users w
 + **CSS**
 
 # How to access
-Visit the live site: [Demo](https://Nishuu3164.github.io/SCT_WD_1)
+Visit the live site: [Local Lore](https://Nishuu3164.github.io/SCT_WD_1)
 
 # clone
 ```sh
